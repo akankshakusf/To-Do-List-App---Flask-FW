@@ -1,4 +1,4 @@
-# Data Scientist's To-Do List Web Application - Flask API
+# Data Scientist's To-Do List Web Application - Using Flask API
 
 ## Project Overview
 
@@ -25,7 +25,7 @@ This is a simple Flask-based web application designed to manage the To-Do list o
      }
      ```
 
-4. **PUT Request to Update an Existing Task**:
+4. **PUT Request to Update an Existing Task**: 
    - Updates the name or description of a task by ID.
    - **Endpoint**: `/items/<int:item_id>`
 
